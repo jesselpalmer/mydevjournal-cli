@@ -27,5 +27,13 @@
  */
 
 const journal = () => {
-  console.log(process.argv);
+  const cmdLineOptions = process.argv.slice(2);
+
+  if (!cmdLineOptions) {
+    processOptions(cmdLineOptions)    
+  }
+
+  console.log(cmdLineOptions);
 }
+
+journal()
