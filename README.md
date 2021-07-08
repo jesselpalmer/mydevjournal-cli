@@ -1,3 +1,3 @@
-# myjournal-cli
+# myjournal
 
 Command-Line Journal
