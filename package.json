@@ -1,7 +1,7 @@
 {
-  "name": "mydevjournal-cli",
+  "name": "myjournal",
   "version": "0.0.1",
-  "description": "Command-Line Dev Journal",
+  "description": "Command-Line Journal",
   "main": "index.js",
   "devDependencies": {
     "@types/node": "^15.12.4",

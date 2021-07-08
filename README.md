@@ -1,2 +1,3 @@
-# mydevjournal-cli
-Command-Line Dev Journal
+# myjournal-cli
+
+Command-Line Journal
