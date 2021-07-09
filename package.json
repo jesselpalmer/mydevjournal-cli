@@ -12,10 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jesselpalmer/mydevjournal-cli.git"
+    "url": "git+ssh://git@github.com/jesselpalmer/myjournal.git"
   },
   "keywords": [
-    "Dev",
     "Journal"
   ],
   "author": "Jesse Palmer",
